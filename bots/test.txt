@@ -1,0 +1,9 @@
+This is a sample text file used for testing file operations by the bot.
+
+Bot actions tested on this file:
+✔ File listing
+✔ File read
+✔ File upload/download
+✔ Command execution simulation
+
+Feel free to modify this file during development.

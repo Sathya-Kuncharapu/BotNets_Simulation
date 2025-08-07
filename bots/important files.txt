@@ -1,0 +1,9 @@
+List of Critical Documents:
+
+1. company_financials_2024.xlsx
+2. internal_memos.pdf
+3. client_contracts.docx
+4. strategy_presentation.pptx
+
+These files are stored under the directory: C:\Users\Sathya\Documents\CriticalDocs
+Access restricted to management personnel only.
